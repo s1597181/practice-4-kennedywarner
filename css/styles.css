@@ -94,7 +94,7 @@ h1{
     color: #6b6560
 }
 
-button{
+.button{
     display: inline-block;
     margin-top: 12px;
     background:#40826d;
