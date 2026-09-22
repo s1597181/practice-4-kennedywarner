@@ -104,3 +104,12 @@ h1{
     font-size: 15px;
     text-transform: uppercase;
 }
+
+.section{
+    border-top: 1px solid whitesmoke;
+    padding: 34px 0 24px;
+}
+
+.section-head{
+    max-width: 68ch;
+}
