@@ -16,3 +16,51 @@ h1, h2, h3 {
     font-family: 'DM Serif Display', Georgia, serif;
     font-weight: 400;
 }
+.site-nav{
+    background: black;
+}
+
+.site-nav ul{
+    list-style: none;
+    display: grid;
+    grid-template: auto / auto auto auto auto auto;
+    gap: 34px;
+    width: max-content;
+    margin: 0 auto;
+    padding: 16px 24px;
+}
+
+.site-nav a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+main{
+    max-width:1120px;
+    margin:0 auto;
+    padding:0 24px;
+}
+
+.site-footer{
+    background: black;
+    color: whitesmoke;
+}
+
+.site-footer .inner{
+    display: grid;
+    grid-template: auto / 1fr 1fr;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 34px 24px;
+}
+
+.site-footer a{
+    color: whitesmoke;
+}
+
+.site-footer .right{
+    text-align: right;
+}
+
+
