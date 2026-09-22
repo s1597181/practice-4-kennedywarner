@@ -136,3 +136,13 @@ h1{
     color:#6b6560;
 }
 
+.recipe-hero{
+    padding: 46px 0 34px;
+}
+
+.recipe-hero img{
+    width:100%;
+    height: 420px;
+    object-fit: cover;
+    margin-top: 24px;
+}
