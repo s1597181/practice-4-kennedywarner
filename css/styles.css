@@ -168,3 +168,34 @@ h1{
     margin-bottom: 9px;
     font-size: 16px;
 }
+
+.jump{
+    border-left:3px solid #40826d;
+    padding-left: 18px;
+    margin-bottom: 30px;
+}
+
+.jump li{
+    font-size: 16px;
+}
+
+.jump ol{
+    margin-left: 18px;
+}
+
+.step{
+    border-top: 1px solid whitesmoke;
+    padding-top: 26px;
+    margin-top: 26px;
+}
+
+.step .num{
+    display: block;
+    font-size: 30px;
+    color: #40826d
+}
+
+.back{
+    font-size: 14px;
+    color:#6b6560;
+}
