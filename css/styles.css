@@ -146,3 +146,25 @@ h1{
     object-fit: cover;
     margin-top: 24px;
 }
+
+.recipe-body{
+    display: grid;
+    grid-template: auto;
+    gap: 54px;
+    padding-bottom:60px;
+}
+
+.ingredients{
+    background: whitesmoke;
+    padding: 26px;
+    align-self: start;
+}
+
+.ingredients ul{
+    margin: 12px 0 0 20px;
+}
+
+.ingredients li{
+    margin-bottom: 9px;
+    font-size: 16px;
+}
