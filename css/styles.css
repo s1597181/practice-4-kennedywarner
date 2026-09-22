@@ -149,7 +149,7 @@ h1{
 
 .recipe-body{
     display: grid;
-    grid-template: auto;
+    grid-template: auto / 300px 1fr;
     gap: 54px;
     padding-bottom:60px;
 }
